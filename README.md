@@ -11,3 +11,7 @@ This document serves as a brief guide for the use of the R analysis program incl
 
 To our knowledge, this is the first attempt to address the issues regarding "**quantitative ordinal scales**" (QOS) interval-censored data in plant pathology, and we believe they are an important consideration for the discipline. In order to assist plant pathologists in analyzing QOS data and encourage the uptake of the interval-censored analysis method, we have provided a comprehensive explanation of the program code used to implement class ratings analyzed through this method. The information demonstrates that the process for analyzing interval-censored survival data using this method is straightforward. As noted above, the method can be applied to reduce the risk of type II errors when considering QOS data, which are widely used in plant pathology and related disciplines.
 
+## Main content
+[Brief guide](https://github.com/StatisticalMethodsinPlantProtection/CompMuCens/blob/main/Supplementary%20Data.pdf)
+
+[Function code and examples](https://github.com/StatisticalMethodsinPlantProtection/CompMuCens/blob/main/R_code.r)
