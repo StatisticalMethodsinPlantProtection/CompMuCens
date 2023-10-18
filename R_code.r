@@ -14,6 +14,9 @@ CompMuCens <- function(dat, scale, grade=T, ckData=F){
     #Installing the dplyr package.
     install.packages("dplyr", repos="http://cloud.r-project.org")
   }
+
+  library(dplyr)     #attach package 'dplyr'
+  library(interval)  #attach package 'interval'
   
   # Converting data into a censored data format
   if (grade==T) {
